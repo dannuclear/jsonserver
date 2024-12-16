@@ -1,4 +1,5 @@
-[
+{
+  "movies":[
   {
     "id": "676062e010f29dfd408c31e4",
     "title": "Decker Fowler"
@@ -28,3 +29,4 @@
     "title": "Barnett Rhodes"
   }
 ]
+}
