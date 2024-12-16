@@ -1,24 +1,20 @@
 {
-  "movies":[
-  {
-    "id": "1",
-    "title": "Decker Fowler"
-  },
-  {
-    "id": "2",
-    "title": "Barry Henry"
-  },
-  {
-    "id": "3",
-    "title": "Carmela Kinney"
-  },
-  {
-    "id": "4",
-    "title": "Carolina Zimmerman"
-  },
-  {
-    "id": "5",
-    "title": "Leanna Christensen"
-  }
-]
+  "movies": [
+    {
+      "id": 1,
+      "title": "Gentry Chan"
+    },
+    {
+      "id": 2,
+      "title": "Roberta Rogers"
+    },
+    {
+      "id": 3,
+      "title": "Bridgette Blair"
+    },
+    {
+      "id": 4,
+      "title": "Lindsay Horn"
+    }
+  ]
 }
